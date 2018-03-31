@@ -1,0 +1,2 @@
+# ptt_crawler_practice
+程式碼function以及建立資料夾儲存圖片
